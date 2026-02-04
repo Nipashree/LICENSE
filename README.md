@@ -1,7 +1,6 @@
-**
 
 MIT License
-**
+
 Copyright (c) 2026 Nipashree Bhattacharya
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
