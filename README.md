@@ -1,5 +1,5 @@
 
-MIT Licens
+MIT License
 
 Copyright (c) 2026 Nipashree Bhattacharya
 
